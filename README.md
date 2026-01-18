@@ -12,7 +12,6 @@ I enjoy analyzing data to uncover insights and support data-driven business deci
 ## 📊 Featured Projects
 - Diwali Sales Analysis – Exploratory Data Analysis (EDA)
 - Pizza Sales Analysis using SQL
-- Elective Recommendation System (Academic Project)
 
 ## 🎓 Education
 BTech in Computer Science Engineering (AI & ML)  
